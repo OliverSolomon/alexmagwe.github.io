@@ -1,0 +1,8 @@
+body{
+}
+
+.landing{
+    background: url(imgs/nucplant.jpg);
+    height: 100vh;
+    width: 100%;
+}
